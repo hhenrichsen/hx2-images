@@ -1,0 +1,10 @@
+{
+  "hosted-zone:account=778144397950:domainName=hx2.dev:region=us-east-1": {
+    "Id": "/hostedzone/Z03017253TE1DG7KRHQKU",
+    "Name": "hx2.dev."
+  },
+  "hosted-zone:account=778144397950:domainName=hx2.dev:region=us-west-1": {
+    "Id": "/hostedzone/Z03017253TE1DG7KRHQKU",
+    "Name": "hx2.dev."
+  }
+}

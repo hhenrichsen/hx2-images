@@ -1,0 +1,25 @@
+{
+  "name": "@hx2-images/functions",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "sst bind vitest",
+    "typecheck": "tsc -noEmit"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.504.0",
+    "@aws-sdk/lib-storage": "^3.504.0",
+    "lambda-multipart-parser": "^1.0.1",
+    "mime-types": "^2.1.35",
+    "stream": "^0.0.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.133",
+    "@types/mime-types": "^2.1.4",
+    "@types/node": "^20.11.14",
+    "@types/uuid": "^9.0.8",
+    "sst": "^2.40.1",
+    "vitest": "^1.2.2"
+  }
+}
